@@ -17,12 +17,19 @@ User ability to add items to the cart and proceed to a mock checkout.
 Project Structure
 ------------------
 src/apiService.js: Handles API requests and data fetching.
+
 src/App.js: Main component integrating various sections of the application.
+
 src/ProductList.js: Component rendering the product listings.
+
 src/Cart.js: Component managing the shopping cart functionality.
+
 src/SignUp.js and src/Login.js: Components for user authentication.
+
 src/Auth.js: Manages authentication logic using Firebase.
+
 src/index.js: Entry point of the application.
+
 src/ProductDetails.js: Component displaying product details.
 
 Contributing
